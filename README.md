@@ -1,4 +1,4 @@
-# 🚗 Car Sales Performance Analysis - A Data Analysis project
+# 🚗 Car Sales Performance Analysis - A Data Analysis Project
 
 ## 📊 Project Overview  
 This project provides an in-depth analysis of car sales performance across multiple regions, with the goal of identifying top-performing car categories, high-value customers, and countries driving the most revenue.  
@@ -9,7 +9,7 @@ Using an interactive Tableau dashboard, the analysis highlights sales trends, cu
 ## 🛠 Tools and Technologies  
 This project utilizes a combination of data transformation and visualization tools to deliver clear and actionable insights:
 
-- **SQL**: Used to query, aggregate, and structure the sales data for deeper analysis.  
+- **SQL(SQL Server Management Studio)**: Used to query, aggregate, and structure the sales data for deeper analysis.  
 - **Excel**: Applied for data cleaning, preprocessing, and exploratory calculations.  
 - **Tableau**: Built interactive dashboards showcasing KPIs, best-selling cars, top customers, and geographic sales performance.
 
